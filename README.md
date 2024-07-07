@@ -39,5 +39,5 @@ Visualization: Utilized pivot charts to create visual representations of sales t
 
 
 
-Contributing
+## Contributing
 Contributions to enhance the analysis methodology or add new insights are welcome. Please fork the repository, make your changes, and submit a pull request.
